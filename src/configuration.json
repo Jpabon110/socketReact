@@ -1,0 +1,38 @@
+{
+    "app": [
+        {
+        "nameApp": "Aplicacion escritorio",
+        "tipo": [{
+            "tipoName": "Login",
+            "estructure":{
+                "cantidad":[
+                    1,
+                    3
+                ],
+                "horas": [
+                    2,
+                    4,
+                    8
+                ]
+            }
+        }]
+        },
+        {
+            "nameApp": "Aplicacion escritorio",
+            "tipo": [{
+                "tipoName": "Login",
+                "estructure":{
+                    "cantidad":[
+                        1,
+                        3
+                    ],
+                    "horas": [
+                        2,
+                        4,
+                        8
+                    ]
+                }
+            }]
+            }
+    ]
+}
